@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/spaghetteria-square.png
-title: Micromouse
+title: Spaghetteria
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-04

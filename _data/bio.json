@@ -1,52 +1,45 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Daniel Kumankumah",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://dkumankumah.github.io/images/Daniel.JPG",
+    "email": "danielkumankumah@gmail.com",
+    "phone": "",
+    "website": "https://dkumankumah.github.io",
+    "summary": "I am studying for a B.S. in Software Engineering at the Amsterdam University of Applied Science. I expect to graduate in Summer, 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "region": "Noord-Holland"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "dkumankumah",
+        "url": "http://github.com/dkumankumah"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "daniel-kumankumah",
+        "url": "http://linkedin.com/in/daniel-kumankumah"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ddayinc",
+        "url": "http://instagram.com/ddayinc"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "mobile development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
@@ -61,12 +54,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Angular",
+        "HTML",
+        "CSS",
+        "Javascript"
       ]
     },
     {
@@ -74,19 +66,16 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Amsterdam University of Applied Science, Amsterdam, NL",
+      "area": "Software Engineering (expected Summer, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,69 +84,50 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Livewords",
+      "position": "Front- & Backoffice Employee, Shiftleader",
+      "website": "https://livewords.com",
+      "startDate": "2010-01-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "As shift leader I’m responsible for managing colleagues, making sure they reach their target",
+        "Providing information and interpreter to healthcare, government agencies and legal aid board"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Livewords",
+      "position": "Webapplication tester",
+      "website": "https://livewords.com",
+      "startDate": "2020-02-01",
+      "endDate": "2020-12-31",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Execute test cases",
+        "Tracking bugs in website"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Stichting !Woon",
+      "website": "https://www.wooninfo.nl",
+      "position": "Energy Coach",
+      "startDate": "2020-11-15",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Creating the awareness that small adjustment in the house or behavior can reflect on the electricity bill.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Pentecost Revival Church",
+      "website": "https://www.pentecostrevival.nl",
+      "position": "Youthleader and sundayschool teacher",
+      "startDate": "2011-04-01",
+      "endDate": "Present",
+      "summary": "As a youth leader, I am responsible for young adults between 15-30 years old. Every week my partner and I have to prepare a message or pass this task on to a colleague. Also preparing annual programs for the youth to understand more about Christ.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [

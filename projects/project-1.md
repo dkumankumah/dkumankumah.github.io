@@ -23,7 +23,7 @@ They are also able to send messages or group messages to branch accounts so that
 
 A special feature we added to our design is the ongelezen logs page or unread logs page. On this page top management is able to read all the logs of all the restaurants that have been submitted and haven’t been read yet. Which means that top management can easily keep a clear overview of all the logs that have been read and all the logs that haven’t been read. 
 
-
+Source: <a href="https://github.com/dkumankumah/spaghetteria"><i class="large github icon"></i>Spaghetteria/vacay</a>
 
 
 

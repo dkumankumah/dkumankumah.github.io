@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/spaghetteria-square.png
 title: Spaghetteria
-permalink: projects/micromouse
+permalink: projects/spaghetteria
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-04
 labels:

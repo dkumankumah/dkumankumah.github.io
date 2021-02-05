@@ -17,4 +17,4 @@ summary: A mobile application to connect youth with the citycouncil.
 
 In this project I gained experience with AndriodStudio and associated technologies, including [Firebase](https://firebase.google.com) for database storage and Javas for client programming. 
  
-Source: <a href="https://github.com/nuwest"><i class="large github icon"></i>NuWest</a>
+Source: <a href="https://github.com/dkumankumah/nuwest"><i class="large github icon"></i>NuWest</a>
